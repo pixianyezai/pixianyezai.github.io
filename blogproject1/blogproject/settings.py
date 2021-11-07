@@ -25,7 +25,7 @@ SECRET_KEY = '4t5yf+=^b0c!fv%$qk3gxxo7(zn@05+h9=2r31@vm38z4$ydbu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '175.27.187.131', 'localhost ', 'ziyipro.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
